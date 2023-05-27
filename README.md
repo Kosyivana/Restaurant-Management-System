@@ -1,3 +1,2 @@
-# Restaurant-Management-System
-A Restaurant Management System using GUI in Netbeans
-This project is a joint collaboration by the members of Group 4
+# Restaurant_Management_System
+This is a restaurant management system app built with Java jform.
